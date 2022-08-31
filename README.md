@@ -1,2 +1,2 @@
 # WYFM
-What is Your Fovorite Movie?
+What is Your Favorite Movie?
